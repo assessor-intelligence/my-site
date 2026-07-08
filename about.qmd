@@ -1,5 +1,6 @@
 ---
 title: "About"
+toc: false
 ---
 
 ![](images/1745024948538-01.jpg){fig-align="center" width="235"}

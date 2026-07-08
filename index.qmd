@@ -2,10 +2,20 @@
 title: "my-site"
 ---
 
-This is a Quarto website.
+# Connor Marriott
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Property Assessment • Statistics • GIS  • Data Analytics
 
-```{r}
-1 + 1
-```
+::: {.callout-note appearance="minimal"}
+Exploring how modern analytics, statistics, and software can improve property assessment, mass appraisal, and property tax administration.
+
+My interests lie at the intersection of property assessment, statistics, geographic information systems (GIS), and software development. This website documents my research into improving assessment workflows through better data, analytics, and decision-support tools.
+:::
+
+### Contact Information
+
+**Email:** connor.b.marriott\@gmail.com
+
+**Phone:** (775) 745-3576
+
+**LinkedIn:** [www.linkedin.com/connormarriott88](www.linkedin.com/connormarriott88)

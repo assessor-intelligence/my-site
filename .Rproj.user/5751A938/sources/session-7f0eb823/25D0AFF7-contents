@@ -13,7 +13,7 @@ website:
       - href: research-interests.qmd
         text: Research Interests
       - href: contact.qmd
-        href: Contact
+        text: Contact
 
 format:
   html:

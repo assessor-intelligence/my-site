@@ -3,13 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "my-site"
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: research-interests.qmd
+        text: Research Interests
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

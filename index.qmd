@@ -3,6 +3,8 @@ title: "Connor Marriott"
 toc: false
 ---
 
+![](images/li-header.png){fig-align="center"}
+
 ### Property Assessment • Statistics • GIS  • Data Analytics
 
 | Exploring how modern analytics, statistics, and software can improve property assessment, mass appraisal, and property tax administration.

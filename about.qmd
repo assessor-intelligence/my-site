@@ -1,3 +1,27 @@
 ---
 title: "About"
 ---
+
+![](images/1745024948538-01.jpg){fig-align="center" width="235"}
+
+I have worked in the property appraisal and assessment profession since graduating from college. My academic background includes a Bachelor of Science in Business Administration with an emphasis in Economics and a minor in Mathematics, which sparked my interest in applying quantitative methods to real-world public policy and valuation challenges.
+
+Professionally, I work in property tax administration and have experience in mass appraisal, assessment analytics, ratio studies, geographic information systems (GIS), and statistical analysis. My work has led me to appreciate both the complexity of property assessment and the importance of producing fair, equitable, and transparent valuations.
+
+Outside of my professional responsibilities, I enjoy exploring how statistics, data science, GIS, and software engineering can improve assessment workflows. My current interests include assessment data quality, ratio study automation, assessment equity analysis, valuation modeling, and decision-support tools for assessors. Through this website, I document my research, share technical articles, and connect with other professionals interested in advancing the field of property assessment.
+
+Beyond my work in the public sector, I volunteer at my local church, where I manage the bookstore. I enjoy learning, teaching, and contributing to projects that serve both my profession and my community.
+
+### Areas of Expertise
+
+- Property Assessment & Mass Appraisal
+
+- Assessment Equity & Ratio Studies
+
+- Economics & Statistics
+
+- GIS & Spatial Analysis
+
+- Python, R, SQL, and Data Visualization
+
+- Assessment Data Quality & Analytics

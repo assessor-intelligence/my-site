@@ -1,16 +1,12 @@
 ---
-title: "my-site"
+title: "Connor Marriott"
 ---
-
-# Connor Marriott
 
 ### Property Assessment • Statistics • GIS  • Data Analytics
 
-::: {.callout-note appearance="minimal"}
-Exploring how modern analytics, statistics, and software can improve property assessment, mass appraisal, and property tax administration.
-
-My interests lie at the intersection of property assessment, statistics, geographic information systems (GIS), and software development. This website documents my research into improving assessment workflows through better data, analytics, and decision-support tools.
-:::
+| Exploring how modern analytics, statistics, and software can improve property assessment, mass appraisal, and property tax administration.
+| 
+| My interests lie at the intersection of property assessment, statistics, geographic information systems (GIS), and software development. This website documents my research into improving assessment workflows through better data, analytics, and decision-support tools.
 
 ### Contact Information
 

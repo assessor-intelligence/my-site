@@ -1,0 +1,41 @@
+---
+title: "devnotes"
+---
+
+# Website TODO
+
+## About
+
+- Add IAAO certifications
+
+- Mention conference publications
+
+- Add downloadable CV
+
+## Research
+
+- Current projects
+
+- Research Questions
+
+- Ideas Under Exploration
+
+- Publications
+
+## Articles
+
+- Ratio Studies
+
+- Sales Chasing
+
+- Land Valuation
+
+- Data Quality
+
+## Long-term
+
+- Interactive calculators
+
+- Assessment dashboard
+
+- Blog

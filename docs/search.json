@@ -7,11 +7,39 @@
     "text": "My research focuses on applying statistics, data science, geographic information systems (GIS), and software engineering to improve property assessment and property tax administration. I am particularly interested in developing practical tools that help assessors make more informed, efficient, and transparent decisions while preserving the importance of professional jedgement.\n\nAssessment Data Quality\nReliable assessment begins with reliable data. I am interested in methods for automatically identifying inconsistencies, missing information, and unusual records that may affect valuation accuracy, ratio studies, and taxpayer confidencce.\n\n\nAssessment Equity\nA fundamental goal of property assessment is to ensure that similar properties are assessed in a fair and equitable manner. My interests include statistical methods for evaluating assessment equity, identifying patterns of inequity, and developing tools that help assessment professionals monitor compliance with accepted standards.\n\n\nRatio Studies and Performance Measurement\nRatio studies are among the most important tools for evaluating assessment quality, yet many offices continue to rely on labor-intensive workflows. I am interested in methods for automating ratio studies, improving data visualization, and making statistical results more accessible to both assessment professionals and the public.\n\n\nGeographic Information Systems (GIS)\nLocation is one of the most important determinants of property value. I am interested in applying GIS to neighborhood analysis, market visualization, spatial statistics, and the communication of assessment information.\n\n\nData Science and Statistical Modeling\nModern statistical methods offer opportunities to better understand real estate markets and support mass appraisal. My interests include regression analysis, machine learning, time adjustment estimation, anomaly detection, and other analytical techniques that can assist assessment professionals in making well-supported decisions.\n\n\nDecision-Support Software\nRather than replacing professional judgement, I believe software should augment and enhance it. I am interested in designing practical tools that automate repetitive tasks, improve data quality, generate reports, and help assessment professionals focus their expertise where it adds the greatest value.\n\n\nCurrent Research\nI am currently interviewing assessment professionals to better understand the operational challenges faced by assessor offices. These conversations are helping identify opportunities where modern analytics and thoughtfully designed software can improve efficiency, consistency, and transparency throughout the assessment process.\n\n\nCollaboration\nI welcome conversations with assessors, appraisers, GIS professionals, data analysts, researchers, and others working in property tax administration. If your organization is interested in discussing assessment workflows, data challenges, or opportunities for collaboration, I would be pleased to connect."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "my-site",
+    "objectID": "devnotes.html",
+    "href": "devnotes.html",
+    "title": "devnotes",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Add IAAO certifications\nMention conference publications\nAdd downloadable CV\n\n\n\n\n\nCurrent projects\nResearch Questions\nIdeas Under Exploration\nPublications\n\n\n\n\n\nRatio Studies\nSales Chasing\nLand Valuation\nData Quality\n\n\n\n\n\nInteractive calculators\nAssessment dashboard\nBlog"
+  },
+  {
+    "objectID": "devnotes.html#about",
+    "href": "devnotes.html#about",
+    "title": "devnotes",
+    "section": "",
+    "text": "Add IAAO certifications\nMention conference publications\nAdd downloadable CV"
+  },
+  {
+    "objectID": "devnotes.html#research",
+    "href": "devnotes.html#research",
+    "title": "devnotes",
+    "section": "",
+    "text": "Current projects\nResearch Questions\nIdeas Under Exploration\nPublications"
+  },
+  {
+    "objectID": "devnotes.html#articles",
+    "href": "devnotes.html#articles",
+    "title": "devnotes",
+    "section": "",
+    "text": "Ratio Studies\nSales Chasing\nLand Valuation\nData Quality"
+  },
+  {
+    "objectID": "devnotes.html#long-term",
+    "href": "devnotes.html#long-term",
+    "title": "devnotes",
+    "section": "",
+    "text": "Interactive calculators\nAssessment dashboard\nBlog"
   },
   {
     "objectID": "about.html",
@@ -19,6 +47,13 @@
     "title": "About",
     "section": "",
     "text": "I have worked in the property appraisal and assessment profession since graduating from college. My academic background includes a Bachelor of Science in Business Administration with an emphasis in Economics and a minor in Mathematics, which sparked my interest in applying quantitative methods to real-world public policy and valuation challenges.\nProfessionally, I work in property tax administration and have experience in mass appraisal, assessment analytics, ratio studies, geographic information systems (GIS), and statistical analysis. My work has led me to appreciate both the complexity of property assessment and the importance of producing fair, equitable, and transparent valuations.\nOutside of my professional responsibilities, I enjoy exploring how statistics, data science, GIS, and software engineering can improve assessment workflows. My current interests include assessment data quality, ratio study automation, assessment equity analysis, valuation modeling, and decision-support tools for assessors. Through this website, I document my research, share technical articles, and connect with other professionals interested in advancing the field of property assessment.\nBeyond my work in the public sector, I volunteer at my local church, where I manage the bookstore. I enjoy learning, teaching, and contributing to projects that serve both my profession and my community.\n\nAreas of Expertise\n\nProperty Assessment & Mass Appraisal\nAssessment Equity & Ratio Studies\nEconomics & Statistics\nGIS & Spatial Analysis\nPython, R, SQL, and Data Visualization\nAssessment Data Quality & Analytics"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for visiting my website.\nI am always interested in connecting with professionals working in property assessment, mass appraisal, geographic information systems (GIS), statistics, data science, and property tax administration.\nI am currently speaking with assessors, appraisers, GIS professionals, and other practitioners to better understand the challenges they face and to explore opportunities where modern analytics and thoughtfully designed software can improve assessment workflows.\nIf you are willing to share your experience, discuss your organization’s workflow, or simply exchange ideas, I would be glad to hear from you.\n\nInterested in participating?\nI’m conducting informal interviews with assessment professionals to better understand current workflows, challenges, and opportunities for improvement. Conversations typically last 20-30 minutes and are intended solely for research purposes.\n\n\nConnect\nEmail: connor.b.marriott@gmail.com\nPhone: (775) 745-3576\nLinkedIn: www.linkedin.com/in/connormarriott88\nGitHub: github.com/assessor-intelligence\nI look forward to connecting with professionals who share an interest in improving property assessment through collaboration, research, and practical innovation."
   },
   {
     "objectID": "index.html",
